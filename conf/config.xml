@@ -1,0 +1,13 @@
+<reporter>
+<config>
+<root>C:\Workspace\Reporter\</root>
+<reportsFileName>reports.xml</reportsFileName>
+<reportsFilePath>data\</reportsFilePath>
+<pdfSavePath>C:\vaibhav\pdf\</pdfSavePath>
+<logFilePath>C:\reporter\log\</logFilePath>
+<dbUrl>jdbc:mysql://localhost:3306/vaibhav</dbUrl>
+<dbDriver>com.mysql.jdbc.Driver</dbDriver>
+<dbUsername>root</dbUsername>
+<dbPassword>root</dbPassword>
+</config>
+</reporter>

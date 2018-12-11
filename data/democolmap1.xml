@@ -1,0 +1,17 @@
+<columns>
+<column>
+<sqlName>name</sqlName>
+<displayName>Student Name</displayName>
+<width>40</width>
+</column>
+<column>
+<sqlName>roll_no</sqlName>
+<displayName>Roll Number</displayName>
+<width>30</width>
+</column>
+<column>
+<sqlName>class</sqlName>
+<displayName>Class Name</displayName>
+<width>30</width>
+</column>
+</columns>

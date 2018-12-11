@@ -1,0 +1,19 @@
+<reports>
+	<report>
+		<name>Demo1</name>
+		<serialNumber>1</serialNumber>
+		<sqlFileName>demosql1.sql</sqlFileName>
+		<columnMappingFileName>democolmap1.xml</columnMappingFileName>
+		<pdfPropertiesFileName>pdf.xml</pdfPropertiesFileName>
+		<argumentsFileName>args.xml</argumentsFileName>
+	</report>
+	<report>
+		<name>Demo2</name>
+		<serialNumber>2</serialNumber>
+		<sqlFileName>demosql2.xml</sqlFileName>
+		<columnMappingFileName>democolmap2.xml</columnMappingFileName>
+		<pdfPropertiesFileName>pdf.xml</pdfPropertiesFileName>
+		<argumentsFileName>args.xml</argumentsFileName>
+	</report>
+
+</reports>

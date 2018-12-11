@@ -1,0 +1,12 @@
+<arguments>
+<argument>
+<name>roll_no</name>
+<value>101</value>
+<type>integer</type>
+</argument>
+<argument>
+<name>name</name>
+<value>vaibhav</value>
+<type>string</type>
+</argument>
+</arguments>

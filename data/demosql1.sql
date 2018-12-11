@@ -1,0 +1,1 @@
+SELECT * FROM STUDENT where roll_no=$roll_no AND name=$name
